@@ -1,0 +1,20 @@
+{
+  "name": "scriptoria",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./bin/scriptoria.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "scriptoria": "./bin/scriptoria.js",
+    "scpt": "bin/scriptoria.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "yargs": "^16.1.0"
+  }
+}
